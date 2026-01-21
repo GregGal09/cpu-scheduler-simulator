@@ -1,11 +1,11 @@
 console.log('Happy developing ✨')
 
 // DICHIARAZIONE VARIABILI GLOBALI
-let p = []; //ARRAY PROCESSI
-let at = []; //ARRAY TEMPO DI ARRIVO
-let bt = []; //ARRAY TEMPO DI BURST
-let rbt = []; //ARRAY TEMPO DI BURST RIMANENTE
-let pr = []; //ARRAY PRIORITÀ
+let p = ["p1", "p2", "p3"]; //ARRAY PROCESSI
+let at = ["2", "6", "8"]; //ARRAY TEMPO DI ARRIVO
+let bt = ["5", "3", "7"]; //ARRAY TEMPO DI BURST
+let rbt = ["3", "1","5"]; //ARRAY TEMPO DI BURST RIMANENTE
+let pr = ["5", "9", "8"]; //ARRAY PRIORITÀ
 
 /* FUNZIONE RESET
  La tabella dei processi viene sostituita con una tabella vuota
